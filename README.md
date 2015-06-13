@@ -15,7 +15,7 @@ As of version 0.1 it works on Windows x86 and only covers a few functions of Sto
 * **extract**(path, destination): Extract a file from an MPQ archive.
 
 
-Further worke
-=============
+Further work
+============
 
 If you want more functionalities or want it to work for x64 feel free to create issues.
