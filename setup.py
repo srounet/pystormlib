@@ -3,7 +3,7 @@ import setuptools
 
 setuptools.setup(
     name='PyStormLib',
-    version='1.0.0',
+    version='0.1',
     description='Wrapper around Stormlib',
     author='Fabien Reboia',
     author_email='srounet@gmail.com',
